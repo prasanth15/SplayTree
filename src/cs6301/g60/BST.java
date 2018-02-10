@@ -1,7 +1,6 @@
 /** 
  *  Binary search tree 
- *  @author Varun Muthanna(vkm150030), Prasanth Kesava Pillai(pxk163630)
- *	& Shivan Pandya(srp150330)
+ *  @author Prasanth Kesava Pillai(pxk163630)
  **/
 
 package cs6301.g60;
